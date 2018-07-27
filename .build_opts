@@ -1,0 +1,1 @@
+'custom USE_LINUX_SPLICE=1 USE_LINUX_TPROXY=1 USE_LIBCRYPT=1 USE_POLL=default USE_PCRE=1 -O2 -march=native -g -fno-strict-aliasing -Wdeclaration-after-statement -fwrapv -fno-strict-overflow -Wno-unused-label '
